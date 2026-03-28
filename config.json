@@ -1,0 +1,36 @@
+{
+  "spreadsheet_url": "https://docs.google.com/spreadsheets/d/1AIpIfEbU1Lz_yBLccQTB1sa2xObDbJL0xmFEHmpP4q0/edit?gid=396695001#gid=396695001",
+  "start_cell": "A1",
+  "schedule": {
+    "start_date": "2026-03-28",
+    "start_hour": 12,
+    "start_minute": 45,
+    "interval": 120,
+    "interval_min": 120,
+    "interval_max": 120,
+    "random_minutes": false,
+    "posting_start_hour": 6,
+    "posting_start_minute": 0,
+    "posting_end_hour": 24,
+    "posts_per_day": 5,
+    "daily_times": ["07:23", "12:56", "15:12", "19:49", "21:33"],
+    "minute_jitter_min": 5,
+    "minute_jitter_max": 7,
+    "links_enabled": false,
+    "links_per_day": 3,
+    "link_delay_min": 30,
+    "link_delay_max": 60
+  },
+  "generation": {
+    "posts_per_batch": 10,
+    "platform": "Threads"
+  },
+  "threads_api": {
+    "access_token": "THAANRjCZCMK7NBUVRlR3dRUkcyNG9vdXJYVDFmTzQ5WVNrRVFrYjVXcTlUWmJheDdTLWczR0ZA5dDlTNFpyZAV9VUjJ0aEllVzllMVExcnlkNmhEeG9iNjNncUI5WXQtYkNvUTJvOUl4U2ZAmZAW5zcV8tclY1cVc2czQ3WGZA6SlFWR2FoVGs1TDdaUGdDbVZASbWcZD",
+    "account": "yuzu_fukuenlove"
+  },
+  "chrome": {
+    "data_dir": "chrome_data",
+    "profile": "Default"
+  }
+}

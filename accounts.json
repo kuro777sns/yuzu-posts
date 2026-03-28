@@ -1,0 +1,14 @@
+{
+  "accounts": {
+    "yuzu": {
+      "account": "yuzu_fukuenlove",
+      "access_token": "THAANRjCZCMK7NBUVJTcUthSmZAHUUZAmSHF0OWlYWHY1VVJtQXZAJdGJWcVhfeVNwZA3V2SDE1a3oyc2hkUDJCbWZAqNURwZAC03ZAFh4ejRqaS1IRnV4a2h1cmpSSFphS0l4REFoZAWhtSnh2UFMwVFVFUW5pNS01MlNPY2dtT0hxMklEdjliZAGlTSXBSODdqUEZACRUUZD",
+      "spreadsheet_url": "https://docs.google.com/spreadsheets/d/1AIpIfEbU1Lz_yBLccQTB1sa2xObDbJL0xmFEHmpP4q0/edit"
+    },
+    "choco": {
+      "account": "choco_tokimeki",
+      "access_token": "THAANRjCZCMK7NBUVJkdUpSYTN0bEZAhczRXWUYtVzJfVEM4Xzl3alQ0TV9OYmVBdUtsQUNmUk5rQUdkS0taQ2tSU2NNcmtVOHRucDBra1J3dlBSYmRybkZAOdTJvSm0xa2QtTTNRX1FFNVhLQkhXU0k4STJ2QnFvZAl9URXBMaDdMbzhEU1FsUFM2QWVDV0pvaGsZD",
+      "spreadsheet_url": "https://docs.google.com/spreadsheets/d/1brXTiGxf-XnDCU1HvmcvkC1Q-f_OsAxC22Qi3s_bGjo/edit"
+    }
+  }
+}

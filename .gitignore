@@ -1,0 +1,13 @@
+# Chromeセッション（個人情報）
+chrome_data/
+
+# Chrome profile
+.chrome_profile/
+
+# デバッグ用
+debug_screenshot.png
+
+# Python
+__pycache__/
+*.pyc
+.env
